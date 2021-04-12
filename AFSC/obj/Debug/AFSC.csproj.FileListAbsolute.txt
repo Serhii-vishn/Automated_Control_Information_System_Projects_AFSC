@@ -1,0 +1,82 @@
+D:\2 семестр\Проектування ІС\AFSC\AFSC\AFSC\bin\Debug\AFSC.exe.config
+D:\2 семестр\Проектування ІС\AFSC\AFSC\AFSC\bin\Debug\AFSC.exe
+D:\2 семестр\Проектування ІС\AFSC\AFSC\AFSC\bin\Debug\AFSC.pdb
+D:\2 семестр\Проектування ІС\AFSC\AFSC\AFSC\obj\Debug\AFSC.csprojAssemblyReference.cache
+D:\2 семестр\Проектування ІС\AFSC\AFSC\AFSC\obj\Debug\AFSC.Properties.Resources.resources
+D:\2 семестр\Проектування ІС\AFSC\AFSC\AFSC\obj\Debug\AFSC.csproj.GenerateResource.cache
+D:\2 семестр\Проектування ІС\AFSC\AFSC\AFSC\obj\Debug\AFSC.csproj.CoreCompileInputs.cache
+D:\2 семестр\Проектування ІС\AFSC\AFSC\AFSC\obj\Debug\AFSC.exe
+D:\2 семестр\Проектування ІС\AFSC\AFSC\AFSC\obj\Debug\AFSC.pdb
+D:\2 семестр\Проектування ІС\AFSC\AFSC\AFSC\obj\Debug\AFSC.LoginForm.resources
+D:\2 семестр\Проектування ІС\AFSC\AFSC\AFSC\bin\Debug\MySql.Data.dll
+D:\2 семестр\Проектування ІС\AFSC\AFSC\AFSC\bin\Debug\Google.Protobuf.dll
+D:\2 семестр\Проектування ІС\AFSC\AFSC\AFSC\bin\Debug\Zstandard.Net.dll
+D:\2 семестр\Проектування ІС\AFSC\AFSC\AFSC\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\2 семестр\Проектування ІС\AFSC\AFSC\AFSC\bin\Debug\BouncyCastle.Crypto.dll
+D:\2 семестр\Проектування ІС\AFSC\AFSC\AFSC\bin\Debug\Ubiety.Dns.Core.dll
+D:\2 семестр\Проектування ІС\AFSC\AFSC\AFSC\bin\Debug\Renci.SshNet.dll
+D:\2 семестр\Проектування ІС\AFSC\AFSC\AFSC\bin\Debug\System.Buffers.dll
+D:\2 семестр\Проектування ІС\AFSC\AFSC\AFSC\bin\Debug\K4os.Compression.LZ4.dll
+D:\2 семестр\Проектування ІС\AFSC\AFSC\AFSC\bin\Debug\K4os.Hash.xxHash.dll
+D:\2 семестр\Проектування ІС\AFSC\AFSC\AFSC\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\2 семестр\Проектування ІС\AFSC\AFSC\AFSC\bin\Debug\MySql.Data.xml
+D:\2 семестр\Проектування ІС\AFSC\AFSC\AFSC\obj\Debug\AFSC.exe.config
+D:\2 семестр\Проектування ІС\AFSC\AFSC\AFSC\obj\Debug\AFSC.csproj.CopyComplete
+D:\2 семестр\Проектування ІС\AFSC\AFSC\AFSC\obj\Debug\AFSC.StudentForm.resources
+D:\Git\AFSC\Automated_Control_Information_System_AFSC\AFSC\bin\Debug\AFSC.exe.config
+D:\Git\AFSC\Automated_Control_Information_System_AFSC\AFSC\bin\Debug\AFSC.exe
+D:\Git\AFSC\Automated_Control_Information_System_AFSC\AFSC\bin\Debug\AFSC.pdb
+D:\Git\AFSC\Automated_Control_Information_System_AFSC\AFSC\bin\Debug\MySql.Data.dll
+D:\Git\AFSC\Automated_Control_Information_System_AFSC\AFSC\bin\Debug\Google.Protobuf.dll
+D:\Git\AFSC\Automated_Control_Information_System_AFSC\AFSC\bin\Debug\Zstandard.Net.dll
+D:\Git\AFSC\Automated_Control_Information_System_AFSC\AFSC\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Git\AFSC\Automated_Control_Information_System_AFSC\AFSC\bin\Debug\BouncyCastle.Crypto.dll
+D:\Git\AFSC\Automated_Control_Information_System_AFSC\AFSC\bin\Debug\Ubiety.Dns.Core.dll
+D:\Git\AFSC\Automated_Control_Information_System_AFSC\AFSC\bin\Debug\Renci.SshNet.dll
+D:\Git\AFSC\Automated_Control_Information_System_AFSC\AFSC\bin\Debug\System.Buffers.dll
+D:\Git\AFSC\Automated_Control_Information_System_AFSC\AFSC\bin\Debug\K4os.Compression.LZ4.dll
+D:\Git\AFSC\Automated_Control_Information_System_AFSC\AFSC\bin\Debug\K4os.Hash.xxHash.dll
+D:\Git\AFSC\Automated_Control_Information_System_AFSC\AFSC\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Git\AFSC\Automated_Control_Information_System_AFSC\AFSC\bin\Debug\MySql.Data.xml
+D:\Git\AFSC\Automated_Control_Information_System_AFSC\AFSC\obj\Debug\AFSC.exe.config
+D:\Git\AFSC\Automated_Control_Information_System_AFSC\AFSC\obj\Debug\AFSC.Properties.Resources.resources
+D:\Git\AFSC\Automated_Control_Information_System_AFSC\AFSC\obj\Debug\AFSC.StudentForm.resources
+D:\Git\AFSC\Automated_Control_Information_System_AFSC\AFSC\obj\Debug\AFSC.csproj.GenerateResource.cache
+D:\Git\AFSC\Automated_Control_Information_System_AFSC\AFSC\obj\Debug\AFSC.csproj.CoreCompileInputs.cache
+D:\Git\AFSC\Automated_Control_Information_System_AFSC\AFSC\obj\Debug\AFSC.csproj.CopyComplete
+D:\Git\AFSC\Automated_Control_Information_System_AFSC\AFSC\obj\Debug\AFSC.exe
+D:\Git\AFSC\Automated_Control_Information_System_AFSC\AFSC\obj\Debug\AFSC.pdb
+D:\Git\AFSC\Automated_Control_Information_System_AFSC\AFSC\obj\Debug\AFSC.Info.resources
+D:\Git\AFSC\Automated_Control_Information_System_AFSC\AFSC\obj\Debug\AFSC.TeacherForm.resources
+D:\Git\AFSC\Automated_Control_Information_System_AFSC\AFSC\bin\Debug\Siticone.UI.dll
+D:\Git\AFSC\Automated_Control_Information_System_AFSC\AFSC\obj\Debug\AFSC.csprojAssemblyReference.cache
+D:\Git\AFSC\Automated_Control_Information_System_AFSC\AFSC\obj\Debug\AFSC.Form.resources
+D:\Git\AFSC\Automated_Control_Information_System_AFSC\AFSC\obj\Debug\AFSC.EmployeePD.resources
+D:\Projects\IS\Automated_Control_Information_System_AFSC\AFSC\obj\Debug\AFSC.csprojAssemblyReference.cache
+D:\Projects\IS\Automated_Control_Information_System_AFSC\AFSC\obj\Debug\AFSC.exe.config
+D:\Projects\IS\Automated_Control_Information_System_AFSC\AFSC\obj\Debug\AFSC.EmployeePD.resources
+D:\Projects\IS\Automated_Control_Information_System_AFSC\AFSC\obj\Debug\AFSC.Info.resources
+D:\Projects\IS\Automated_Control_Information_System_AFSC\AFSC\obj\Debug\AFSC.Properties.Resources.resources
+D:\Projects\IS\Automated_Control_Information_System_AFSC\AFSC\obj\Debug\AFSC.StudentForm.resources
+D:\Projects\IS\Automated_Control_Information_System_AFSC\AFSC\obj\Debug\AFSC.TeacherForm.resources
+D:\Projects\IS\Automated_Control_Information_System_AFSC\AFSC\obj\Debug\AFSC.csproj.GenerateResource.cache
+D:\Projects\IS\Automated_Control_Information_System_AFSC\AFSC\obj\Debug\AFSC.csproj.CoreCompileInputs.cache
+D:\Projects\IS\Automated_Control_Information_System_AFSC\AFSC\obj\Debug\AFSC.exe
+D:\Projects\IS\Automated_Control_Information_System_AFSC\AFSC\obj\Debug\AFSC.pdb
+D:\Projects\IS\Automated_Control_Information_System_AFSC\AFSC\bin\Debug\AFSC.exe.config
+D:\Projects\IS\Automated_Control_Information_System_AFSC\AFSC\bin\Debug\AFSC.exe
+D:\Projects\IS\Automated_Control_Information_System_AFSC\AFSC\bin\Debug\AFSC.pdb
+D:\Projects\IS\Automated_Control_Information_System_AFSC\AFSC\bin\Debug\MySql.Data.dll
+D:\Projects\IS\Automated_Control_Information_System_AFSC\AFSC\bin\Debug\Google.Protobuf.dll
+D:\Projects\IS\Automated_Control_Information_System_AFSC\AFSC\bin\Debug\Zstandard.Net.dll
+D:\Projects\IS\Automated_Control_Information_System_AFSC\AFSC\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Projects\IS\Automated_Control_Information_System_AFSC\AFSC\bin\Debug\BouncyCastle.Crypto.dll
+D:\Projects\IS\Automated_Control_Information_System_AFSC\AFSC\bin\Debug\Ubiety.Dns.Core.dll
+D:\Projects\IS\Automated_Control_Information_System_AFSC\AFSC\bin\Debug\Renci.SshNet.dll
+D:\Projects\IS\Automated_Control_Information_System_AFSC\AFSC\bin\Debug\System.Buffers.dll
+D:\Projects\IS\Automated_Control_Information_System_AFSC\AFSC\bin\Debug\K4os.Compression.LZ4.dll
+D:\Projects\IS\Automated_Control_Information_System_AFSC\AFSC\bin\Debug\K4os.Hash.xxHash.dll
+D:\Projects\IS\Automated_Control_Information_System_AFSC\AFSC\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projects\IS\Automated_Control_Information_System_AFSC\AFSC\bin\Debug\MySql.Data.xml
+D:\Projects\IS\Automated_Control_Information_System_AFSC\AFSC\obj\Debug\AFSC.csproj.CopyComplete
+D:\Projects\IS\Automated_Control_Information_System_AFSC\AFSC\obj\Debug\AFSC.Form.resources
